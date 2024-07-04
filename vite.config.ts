@@ -11,7 +11,6 @@ export default defineConfig({
       include: '**/*.svg?react',
     }),
   ],
-  base: '/cars/',
   resolve: {
     alias: {
       app: '/src/app',
