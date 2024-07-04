@@ -1,0 +1,12 @@
+body {
+  font-family: 'Montserrat';
+  line-height: 1.5;
+  font-weight: 400;
+  margin: 0;
+  background-color: #f0f0f0;
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+
+  overflow-x: hidden;
+}

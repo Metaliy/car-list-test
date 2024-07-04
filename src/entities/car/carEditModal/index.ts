@@ -1,0 +1,1 @@
+export {CarEditModal} from './ui/carEditModal'
